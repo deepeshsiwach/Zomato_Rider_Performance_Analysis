@@ -56,4 +56,7 @@ The goal is to derive actionable insights for improving delivery efficiency and 
 ## 📊 Dashboard Preview
 (Add your dashboard screenshots here later 👇)
 
-> Coming soon: Power BI dashboard screenshots showcasing key KPIs, rider efficiency analysis, and city-wise performance comparison.
+Here are some key visuals from the Power BI dashboard:
+
+### Rider Performance Overview
+![Rider Performance Dashboard](screenshots/dashboard_overview.png)
